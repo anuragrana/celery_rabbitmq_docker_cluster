@@ -6,6 +6,7 @@
 
 - Docker-compose : `docker-compose version 1.8.0, build unknown`
 - Docker : `Docker version 17.12.0-ce, build c97c6d6`
+- Python: Python:3 docker image being used in dockerfile
 -----------------------
 
 
